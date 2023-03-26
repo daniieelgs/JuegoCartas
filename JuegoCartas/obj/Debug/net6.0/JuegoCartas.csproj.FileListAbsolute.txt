@@ -1,0 +1,15 @@
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\bin\Debug\net6.0\JuegoCartas.exe
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\bin\Debug\net6.0\JuegoCartas.deps.json
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\bin\Debug\net6.0\JuegoCartas.runtimeconfig.json
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\bin\Debug\net6.0\JuegoCartas.dll
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\bin\Debug\net6.0\JuegoCartas.pdb
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.csproj.AssemblyReference.cache
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.AssemblyInfo.cs
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.dll
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\refint\JuegoCartas.dll
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.pdb
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\JuegoCartas.genruntimeconfig.cache
+C:\Users\Dani\source\repos\JuegoCartas\JuegoCartas\obj\Debug\net6.0\ref\JuegoCartas.dll
